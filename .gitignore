@@ -41,4 +41,5 @@ Thumbs.db
 .project
 .classpath
 .settings/
+target/
 
